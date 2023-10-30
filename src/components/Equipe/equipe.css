@@ -1,0 +1,34 @@
+*{
+    font-size: 1rem;;
+}
+
+.div-prof{
+    font-size: 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content:center ;
+}
+
+.div-prof p{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 5px;
+    width: 50%;
+}
+
+.div-aluno{
+    font-size: 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content:center ;
+}
+
+.div-aluno p{
+    background-color: rgb(1, 29, 106);
+    color: aliceblue;
+    border-radius: 5px;
+    width: 50%;
+    padding: 2px;
+}
+
+

@@ -1,0 +1,11 @@
+.entrar{
+    color: green;
+}
+
+.erro{
+    color: red;
+}
+
+label{
+    display: inline-block;
+}
