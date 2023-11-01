@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AulaReact-TPI01/static/css/main.6c6cfe72.css",
+    "main.js": "/AulaReact-TPI01/static/js/main.acab73ba.js",
+    "static/js/787.32af0c9d.chunk.js": "/AulaReact-TPI01/static/js/787.32af0c9d.chunk.js",
+    "index.html": "/AulaReact-TPI01/index.html",
+    "main.6c6cfe72.css.map": "/AulaReact-TPI01/static/css/main.6c6cfe72.css.map",
+    "main.acab73ba.js.map": "/AulaReact-TPI01/static/js/main.acab73ba.js.map",
+    "787.32af0c9d.chunk.js.map": "/AulaReact-TPI01/static/js/787.32af0c9d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c6cfe72.css",
+    "static/js/main.acab73ba.js"
+  ]
+}
